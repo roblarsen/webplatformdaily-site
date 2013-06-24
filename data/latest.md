@@ -17,7 +17,7 @@ The source code of this web-site is [on GitHub](https://github.com/simevidas/web
      - 2nd WD of “*CSS Masking*”, [TR](http://www.w3.org/TR/2013/WD-css-masking-20130620/) + [diff](http://www.w3.org/TR/2013/WD-css-masking-20130620/,diff) + release [notes](http://www.w3.org/blog/CSS/2013/06/20/css-masking-draft-updated/)
    - ![][&] What are the *use cases for `<figure>`* without a `<figcaption>`?, [discussion](http://lists.w3.org/Archives/Public/public-html/2013Jun/0076.html) on `public-html`
    - ![][&] *Geometry API* (for intersections, etc.) proposed [here](https://twitter.com/shepazu/status/347779239405289472)
-   - Inital (limited) support for *Web Audio API* soon in Chrome for Android, [source](https://twitter.com/html5/status/347790262287872000)
+   - Initial (limited) support for *Web Audio API* soon in Chrome for Android, [source](https://twitter.com/html5/status/347790262287872000)
    - The *HTTP Archive dataset* is now available on Google BigQuery, [@igrigorik]()’s [post](http://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/) w/ 10-min presentation ![][*]
  - FYI
    - The *Blink engine* appears on 5 platforms: Windows, Mac, Linux, Chrome OS and Android
